@@ -4,6 +4,7 @@ domain: [adoption]
 status: active
 created: 2026-07-15
 tags: [vendor-fit, customization, adoption]
+description: "27% of SMEs aware of AI solutions but not using them say available support \"was not adapted to their needs\" — the core argument for anchoring AI to your own knowledge rather than deploying a generic assistant."
 ---
 
 ## TLDR

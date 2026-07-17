@@ -4,6 +4,7 @@ domain: [cross-domain]
 status: active
 created: 2026-07-15
 tags: [change-management, leadership, adoption]
+description: "Across five independent sources, AI initiatives stall on people and process rather than model capability — but the sources disagree sharply on whether employee resistance is a minor barrier or the whole story."
 ---
 
 ## TLDR

@@ -5,6 +5,7 @@ domain: [governance, risk]
 status: active
 created: 2026-07-15
 tags: [source, datagrail, subprocessors, privacy]
+description: "DataGrail's report and the source of the 63.6%-of-AI-vendors-hide-subprocessors figure — the evidentiary basis for vendor oversight."
 ---
 
 ## TLDR

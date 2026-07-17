@@ -4,6 +4,7 @@ domain: [risk]
 status: active
 created: 2026-07-15
 tags: [entity, breach-cost, shadow-ai, research]
+description: "Publisher of the Cost of a Data Breach Report, source of the +$670,000 shadow-AI breach premium and the 65%-more-PII figure."
 ---
 
 ## TLDR

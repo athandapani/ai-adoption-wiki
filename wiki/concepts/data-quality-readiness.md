@@ -4,6 +4,7 @@ domain: [adoption]
 status: active
 created: 2026-07-15
 tags: [data-quality, readiness, infrastructure]
+description: "The most common AI failure mode isn't picking the wrong tool — it's starting with data that isn't ready, and the Karpathy approach tolerates messy formats without fixing knowledge that was never captured."
 ---
 
 ## TLDR

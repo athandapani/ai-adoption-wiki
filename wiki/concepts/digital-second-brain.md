@@ -4,6 +4,7 @@ domain: [second-brain]
 status: active
 created: 2026-07-15
 tags: [second-brain, knowledge-management, architecture]
+description: "A living, AI-maintained knowledge system that captures, organizes, cross-links, and makes queryable all institutional knowledge — externalized organizational memory that doesn't leave when employees do."
 ---
 
 ## TLDR

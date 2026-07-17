@@ -4,6 +4,7 @@ domain: [tooling]
 status: active
 created: 2026-07-15
 tags: [entity, vendor, wiki, atlassian, tooling]
+description: "Wiki plus AI at $5.75–11/user plus an AI add-on — the cheapest per-seat option, and the default for anyone already running Jira."
 ---
 
 ## TLDR

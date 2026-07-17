@@ -5,6 +5,7 @@ domain: [spend]
 status: revisiting
 created: 2026-07-15
 tags: [source, bcg, spend, unreachable]
+description: "The one reference in the corpus that could not be captured — an MSN syndication of BCG coverage, redundant with three sources that were."
 ---
 
 ## TLDR

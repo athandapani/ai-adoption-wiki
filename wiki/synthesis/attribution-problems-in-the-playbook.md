@@ -4,6 +4,7 @@ domain: [cross-domain]
 status: active
 created: 2026-07-15
 tags: [meta, verification, source-criticism, playbook]
+description: "Verifying all 43 of the playbook's references against their captured sources found one fabricated concept, four of five invented per-employee spend figures, a scrambled five-posture taxonomy, an invented report title, and a central thesis that its own primary source explicitly contradicts."
 ---
 
 ## TLDR

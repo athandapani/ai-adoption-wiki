@@ -5,6 +5,7 @@ domain: [adoption]
 status: active
 created: 2026-07-15
 tags: [source, rsm, mid-market, adoption]
+description: "LinkedIn summary of RSM's 2025 Middle Market AI Survey: 78–92% of mid-sized firms use AI, 85% say it exceeded expectations, 54% found deployment harder than expected."
 ---
 
 ## TLDR

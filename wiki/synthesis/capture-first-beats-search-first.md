@@ -4,6 +4,7 @@ domain: [cross-domain]
 status: active
 created: 2026-07-15
 tags: [knowledge-management, sequencing, capture]
+description: "Teams that build search before building capture end up with excellent search across a thin knowledge base — solve capture, accumulate volume, then optimize retrieval."
 ---
 
 ## TLDR

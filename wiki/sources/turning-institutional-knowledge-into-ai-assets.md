@@ -5,6 +5,7 @@ domain: [second-brain]
 status: active
 created: 2026-07-15
 tags: [source, rag, knowledge-management, activation]
+description: "RAG guide arguing institutional knowledge needs activation, not creation — the source of the playbook's best strategic framing."
 ---
 
 ## TLDR

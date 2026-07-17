@@ -5,6 +5,7 @@ domain: [change-management]
 status: active
 created: 2026-07-15
 tags: [source, resistance, mit-nanda, change-management]
+description: "Carries the 95%-of-AI-pilots-fail finding and the 76%-vs-31% executive perception gap — both absent from the playbook, which cites this source for a single clause."
 ---
 
 ## TLDR

@@ -5,6 +5,7 @@ domain: [spend]
 status: active
 created: 2026-07-15
 tags: [source, gartner, spend, forecast]
+description: "Coverage of Gartner's $2.52T global AI spending forecast for 2026 — up 44% YoY — framed as negotiation leverage rather than prediction."
 ---
 
 ## TLDR

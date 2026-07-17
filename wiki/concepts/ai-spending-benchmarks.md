@@ -4,6 +4,7 @@ domain: [spend]
 status: revisiting
 created: 2026-07-15
 tags: [spend, benchmarks, bcg]
+description: "BCG's 1.7%-of-revenue benchmark is well-corroborated across three sources; the sector splits and per-employee figures built on top of it are not."
 ---
 
 ## TLDR

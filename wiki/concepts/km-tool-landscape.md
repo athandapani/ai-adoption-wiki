@@ -4,6 +4,7 @@ domain: [tooling]
 status: active
 created: 2026-07-15
 tags: [tooling, knowledge-management, pricing, vendors]
+description: "Glean, Guru, Notion AI, Confluence, Slab, Tettra, Microsoft Viva, or a DIY Karpathy wiki — the pricing table checks out against its source, the recommended stacks don't."
 ---
 
 ## TLDR

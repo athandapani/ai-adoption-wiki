@@ -4,6 +4,7 @@ domain: [risk]
 status: active
 created: 2026-07-15
 tags: [entity, shadow-ai, casb, research, vendor]
+description: "Publisher of the Cloud and Threat Report supplying every shadow-AI usage figure in the playbook — and a vendor of the CASB tooling its own data recommends."
 ---
 
 ## TLDR

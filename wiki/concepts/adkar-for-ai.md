@@ -4,6 +4,7 @@ domain: [change-management]
 status: active
 created: 2026-07-15
 tags: [adkar, prosci, change-management]
+description: "Awareness, Desire, Knowledge, Ability, Reinforcement — mapped onto AI adoption, with high shadow-AI usage as the diagnostic signal of a Desire-stage failure."
 ---
 
 ## TLDR

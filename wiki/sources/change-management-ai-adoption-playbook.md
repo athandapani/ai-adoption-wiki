@@ -5,6 +5,7 @@ domain: [change-management]
 status: active
 created: 2026-07-15
 tags: [source, adkar, change-management, champions]
+description: "The ADKAR-for-AI source — and the one that names high shadow-AI usage as the warning sign of a Desire-stage failure."
 ---
 
 ## TLDR

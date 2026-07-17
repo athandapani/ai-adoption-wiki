@@ -4,6 +4,7 @@ domain: [tooling]
 status: active
 created: 2026-07-15
 tags: [entity, vendor, workspace, tooling]
+description: "Workspace plus AI at $20 + $10 AI/user/month — the low-migration-friction option for teams already living in Notion."
 ---
 
 ## TLDR

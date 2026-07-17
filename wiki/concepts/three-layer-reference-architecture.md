@@ -4,6 +4,7 @@ domain: [second-brain]
 status: active
 created: 2026-07-15
 tags: [architecture, second-brain, reference-architecture]
+description: "Knowledge sources at the bottom, knowledge intelligence in the middle, AI interaction on top — the playbook's reference design for a mid-market Digital Second Brain."
 ---
 
 ## TLDR

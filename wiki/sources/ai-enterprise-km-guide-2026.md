@@ -5,6 +5,7 @@ domain: [tooling]
 status: active
 created: 2026-07-15
 tags: [source, tooling, pricing, knowledge-management]
+description: "The tool pricing table the playbook reproduces accurately — and the source of the 1.8-hours/day figure it quietly discards in favor of a bigger one."
 ---
 
 ## TLDR

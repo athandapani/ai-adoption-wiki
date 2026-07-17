@@ -4,6 +4,7 @@ domain: [change-management]
 status: active
 created: 2026-07-15
 tags: [entity, consultancy, wage-premium, skills]
+description: "Source of the ~62% wage premium for AI-skilled workers — up from 57% the prior year — the playbook's best lever for converting employee anxiety into motivation."
 ---
 
 ## TLDR

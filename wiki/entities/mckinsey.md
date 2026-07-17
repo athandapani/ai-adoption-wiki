@@ -4,6 +4,7 @@ domain: [change-management]
 status: active
 created: 2026-07-15
 tags: [entity, consultancy, change-management]
+description: "Source of the finding that change management and organizational silos are the #1 barrier to AI adoption, outranking technology gaps."
 ---
 
 ## TLDR

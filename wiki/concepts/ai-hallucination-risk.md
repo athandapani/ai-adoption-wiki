@@ -4,6 +4,7 @@ domain: [risk]
 status: active
 created: 2026-07-15
 tags: [hallucination, risk, reliability, nist]
+description: "\"Confidently stated but false content\" — rates run from 0.7% on the best model to 29.9% on the worst, and RAG-grounded legal tools still hallucinate 17–33% of the time."
 ---
 
 ## TLDR

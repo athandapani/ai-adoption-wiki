@@ -4,6 +4,7 @@ domain: [second-brain]
 status: revisiting
 created: 2026-07-15
 tags: [knowledge-management, attrition, roi, unverified]
+description: "\"$300,000 lost per departing senior employee\" is the figure that makes the Second Brain business case close within a year — and it does not appear in the source it's attributed to."
 ---
 
 ## TLDR

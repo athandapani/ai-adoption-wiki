@@ -5,6 +5,7 @@ domain: [spend, industry]
 status: active
 created: 2026-07-15
 tags: [source, spend, per-employee, mis-citation]
+description: "The per-employee spend source — where four of the playbook's five cited figures don't match, and the fifth doesn't exist."
 ---
 
 ## TLDR

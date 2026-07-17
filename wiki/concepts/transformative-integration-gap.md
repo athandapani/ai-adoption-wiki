@@ -4,6 +4,7 @@ domain: [adoption]
 status: active
 created: 2026-07-15
 tags: [adoption, maturity, roi]
+description: "Only 8% of businesses reach \"transformative\" digital integration and only 6% of AI users see meaningful bottom-line impact — breadth of adoption has decoupled from depth of value."
 ---
 
 ## TLDR

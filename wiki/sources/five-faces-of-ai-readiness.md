@@ -5,6 +5,7 @@ domain: [change-management]
 status: active
 created: 2026-07-15
 tags: [source, wef, archetypes, resistance, playwright]
+description: "The WEF's actual five archetypes — enthusiasts, curious, cautious, sceptics, opposed — and the frontstage/backstage resistance finding the playbook drops entirely."
 ---
 
 ## TLDR

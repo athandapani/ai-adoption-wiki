@@ -4,6 +4,7 @@ domain: [spend]
 status: active
 created: 2026-07-15
 tags: [entity, consultancy, spend, benchmarks]
+description: "Publisher of AI Radar 2026, the source of the 1.7%-of-revenue AI spending benchmark — and of the 94%-will-keep-spending / 6%-see-impact pair."
 ---
 
 ## TLDR

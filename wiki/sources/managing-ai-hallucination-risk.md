@@ -5,6 +5,7 @@ domain: [risk]
 status: revisiting
 created: 2026-07-15
 tags: [source, hallucination, vectara, risk-management]
+description: "The least conflicted hallucination source in the corpus — and the likely unnamed conduit for Vectara's leaderboard figures."
 ---
 
 ## TLDR

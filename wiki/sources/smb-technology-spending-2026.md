@@ -5,6 +5,7 @@ domain: [spend]
 status: active
 created: 2026-07-15
 tags: [source, spend, it-budget, smb]
+description: "SMB IT budget data — AI at 5% today, Gartner forecasting 12–15% of SMB software spend by 2027 — plus the 3.4%-of-revenue figure that breaks the playbook's arithmetic."
 ---
 
 ## TLDR

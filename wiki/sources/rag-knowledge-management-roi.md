@@ -5,6 +5,7 @@ domain: [second-brain, spend]
 status: revisiting
 created: 2026-07-15
 tags: [source, rag, roi, unverified]
+description: "The playbook's ROI anchor — 300–500% first-year returns, 2.5 hours/day searching, 70% knowledge preservation — from a consultancy marketing page with no methodology, and missing the $300K figure attributed to it."
 ---
 
 ## TLDR

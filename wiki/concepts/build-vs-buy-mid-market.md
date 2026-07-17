@@ -4,6 +4,7 @@ domain: [spend]
 status: revisiting
 created: 2026-07-15
 tags: [build-vs-buy, spend, strategy]
+description: "Buy the commodity layer, build the proprietary knowledge layer — a sound recommendation resting on a comparison table that doesn't appear in the source it's cited to."
 ---
 
 ## TLDR

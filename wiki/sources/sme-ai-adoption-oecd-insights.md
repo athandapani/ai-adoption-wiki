@@ -5,6 +5,7 @@ domain: [adoption]
 status: active
 created: 2026-07-15
 tags: [source, oecd, adoption, barriers]
+description: "Vendor summary of OECD D4SME research: 39% of SMEs use AI, only 8% reach transformative integration, and cost — not resistance — dominates the barrier list."
 ---
 
 ## TLDR

@@ -5,6 +5,7 @@ domain: [adoption]
 status: revisiting
 created: 2026-07-15
 tags: [source, academic, toe-model, literature-review]
+description: "A systematic literature review of 106 articles organized by the TOE model — and the paper the playbook credits with a \"capability-ambition gap\" it does not contain."
 ---
 
 ## TLDR

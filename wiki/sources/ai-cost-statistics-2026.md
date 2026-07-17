@@ -5,6 +5,7 @@ domain: [spend]
 status: active
 created: 2026-07-15
 tags: [source, spend, roi, finops]
+description: "Independently corroborates the 1.7% benchmark and the 27%→52% IT-budget shift — and carries three figures that gut the playbook's productivity math."
 ---
 
 ## TLDR

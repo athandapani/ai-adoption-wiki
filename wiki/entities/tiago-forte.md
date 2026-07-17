@@ -4,6 +4,7 @@ domain: [second-brain]
 status: dormant
 created: 2026-07-15
 tags: [entity, person, pkm, second-brain]
+description: "Author of \"Building a Second Brain\" and the capture-organize-distill-express methodology the playbook names as one of two founding traditions — and then never returns to."
 ---
 
 ## TLDR

@@ -4,6 +4,7 @@ domain: [spend]
 status: active
 created: 2026-07-15
 tags: [entity, analyst, spend, forecast]
+description: "Source of the $2.52T global AI spending forecast for 2026, the 12–15%-of-SMB-software-spend-by-2027 projection, and the 47%-of-AI-budgets-overrun figure."
 ---
 
 ## TLDR

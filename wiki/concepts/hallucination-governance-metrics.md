@@ -4,6 +4,7 @@ domain: [risk]
 status: active
 created: 2026-07-15
 tags: [hallucination, metrics, dashboard, governance]
+description: "Hallucination@k, source attribution rate, abstention rate, escalation rate, and incident density — five leadership-dashboard metrics, none of which any source reports anyone actually running."
 ---
 
 ## TLDR

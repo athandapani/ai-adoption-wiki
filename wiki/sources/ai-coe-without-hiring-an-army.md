@@ -5,6 +5,7 @@ domain: [governance]
 status: active
 created: 2026-07-15
 tags: [source, ai-coe, governance, operating-model]
+description: "The load-bearing source for the playbook's entire Section 5 — five components, 40/30/30, and the four-quadrant matrix, all reproduced faithfully."
 ---
 
 ## TLDR

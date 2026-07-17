@@ -5,6 +5,7 @@ domain: [adoption]
 status: dormant
 created: 2026-07-15
 tags: [source, adoption, retrospective, stale]
+description: "A January 2025 retrospective on 2024's AI struggles — data infrastructure, talent, regulation, unclear ROI — superseded by every newer adoption source in the vault."
 ---
 
 ## TLDR

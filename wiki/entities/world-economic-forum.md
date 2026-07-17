@@ -4,6 +4,7 @@ domain: [change-management]
 status: active
 created: 2026-07-15
 tags: [entity, research, archetypes, readiness]
+description: "Publisher of the five-archetype AI readiness research and the frontstage-compliance/backstage-resistance finding the playbook omits."
 ---
 
 ## TLDR

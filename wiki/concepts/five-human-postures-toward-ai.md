@@ -4,6 +4,7 @@ domain: [change-management]
 status: revisiting
 created: 2026-07-15
 tags: [change-management, archetypes, wef, contested]
+description: "WEF identifies five employee archetypes — enthusiasts, curious, cautious, sceptics, opposed — which the playbook renames to enthusiasts, pragmatists, skeptics, anxious, resisters, scrambling two of them in the process."
 ---
 
 ## TLDR

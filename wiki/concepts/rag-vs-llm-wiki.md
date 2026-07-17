@@ -4,6 +4,7 @@ domain: [second-brain]
 status: revisiting
 created: 2026-07-15
 tags: [rag, llm-wiki, architecture, contested]
+description: "\"RAG retrieves. A wiki compounds.\" — the playbook's central architectural claim, which its own primary source contradicts and which no enterprise deployment in the corpus tests."
 ---
 
 ## TLDR

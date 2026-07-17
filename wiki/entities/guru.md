@@ -4,6 +4,7 @@ domain: [tooling]
 status: active
 created: 2026-07-15
 tags: [entity, vendor, wiki, verification, tooling]
+description: "Modern wiki at $15–30/user/yr whose verification workflows and staleness detection are the only commercial implementation of the maintenance layer everything else in this vault hand-waves."
 ---
 
 ## TLDR

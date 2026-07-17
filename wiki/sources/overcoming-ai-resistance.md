@@ -5,6 +5,7 @@ domain: [change-management]
 status: active
 created: 2026-07-15
 tags: [source, change-management, mckinsey, resistance]
+description: "The playbook's route to McKinsey's \"change management is the #1 barrier\" finding — and the source of an 18%-adoption figure that contradicts the playbook's own Section 1."
 ---
 
 ## TLDR

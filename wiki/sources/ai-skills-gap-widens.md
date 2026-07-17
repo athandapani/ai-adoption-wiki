@@ -5,6 +5,7 @@ domain: [change-management]
 status: active
 created: 2026-07-15
 tags: [source, forrester, skills-gap, training]
+description: "News coverage of a Forrester report: only half of AI decision-makers train non-technical employees, and that figure moved just 4 points in a year."
 ---
 
 ## TLDR

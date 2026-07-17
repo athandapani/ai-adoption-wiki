@@ -4,6 +4,7 @@ domain: [governance]
 status: revisiting
 created: 2026-07-15
 tags: [governance, iso-42001, tiering]
+description: "Basic ($0/mo, 2 weeks, Notion + Sheets), Standard (~$200/mo, 4 weeks, ISO 42001 Lite), Premium ($1,500+/mo, 8+ weeks, full ISO 42001) — with Standard the right starting point for most $50M–$200M firms."
 ---
 
 ## TLDR

@@ -4,6 +4,7 @@ domain: [spend]
 status: active
 created: 2026-07-15
 tags: [roi, measurement, baselines]
+description: "94% of enterprises will keep spending on AI even without measurable ROI — which reflects both conviction and an absence of measurement discipline, since pre-AI baselines are almost never captured."
 ---
 
 ## TLDR

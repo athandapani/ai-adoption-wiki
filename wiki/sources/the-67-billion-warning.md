@@ -5,6 +5,7 @@ domain: [risk]
 status: revisiting
 created: 2026-07-15
 tags: [source, hallucination, roi, third-hand]
+description: "The origin of the $67.4B hallucination-loss figure — attributed to \"AllAboutAI, 2025\" with no methodology, making the playbook's citation third-hand."
 ---
 
 ## TLDR

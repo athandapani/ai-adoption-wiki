@@ -5,6 +5,7 @@ domain: [adoption]
 status: revisiting
 created: 2026-07-15
 tags: [source, g7, data-readiness, partial-capture]
+description: "The playbook's data-readiness citation — a 9MB PDF with no extractable text layer, captured only through what the playbook itself quotes from it."
 ---
 
 ## TLDR

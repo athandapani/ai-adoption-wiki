@@ -5,6 +5,7 @@ domain: [change-management]
 status: active
 created: 2026-07-15
 tags: [source, ai-literacy, training, curriculum]
+description: "The source of the playbook's 4–8 hour AI literacy curriculum and the train-leaders-first rule."
 ---
 
 ## TLDR

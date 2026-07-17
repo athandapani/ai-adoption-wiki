@@ -4,6 +4,7 @@ domain: [adoption]
 status: active
 created: 2026-07-15
 tags: [mid-market, adoption, strategy]
+description: "Mid-market firms generate enough institutional knowledge and operational complexity to justify serious AI investment, but are too lean to staff dedicated AI teams — creating both the vulnerability and the opportunity."
 ---
 
 ## TLDR

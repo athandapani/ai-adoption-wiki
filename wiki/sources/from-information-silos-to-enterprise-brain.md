@@ -5,6 +5,7 @@ domain: [second-brain, spend]
 status: revisiting
 created: 2026-07-15
 tags: [source, rag, case-study, roi, unattributed]
+description: "The 312%-ROI case study — a 200-employee tech company, with no author, no date, and a single data point generalized across the playbook."
 ---
 
 ## TLDR

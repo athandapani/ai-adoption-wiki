@@ -5,6 +5,7 @@ domain: [governance]
 status: active
 created: 2026-07-15
 tags: [source, ai-coe, governance, drucker]
+description: "The dissolution argument — an 18-month CoE with an end date from day one — and the source of a shadow-AI statistic the playbook never connects to its own shadow-AI section."
 ---
 
 ## TLDR

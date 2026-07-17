@@ -4,6 +4,7 @@ domain: [industry]
 status: active
 created: 2026-07-15
 tags: [industry, manufacturing, logistics, professional-services, healthcare]
+description: "Manufacturing, logistics, professional services, and healthcare admin carry high tribal knowledge and legacy ERP estates — which makes AI both more valuable and harder, and makes the Second Brain the natural first use case."
 ---
 
 ## TLDR

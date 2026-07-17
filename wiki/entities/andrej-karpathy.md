@@ -4,6 +4,7 @@ domain: [second-brain]
 status: active
 created: 2026-07-15
 tags: [entity, person, llm-wiki, second-brain]
+description: "Author of the LLM Wiki gist that the playbook's entire thesis rests on — and which the playbook never cites."
 ---
 
 ## TLDR

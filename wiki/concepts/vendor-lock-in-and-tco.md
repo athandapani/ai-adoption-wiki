@@ -4,6 +4,7 @@ domain: [spend]
 status: active
 created: 2026-07-15
 tags: [tco, vendor-lock-in, spend, hidden-costs]
+description: "SaaS AI looks cheap per seat and hides cost in integration, drift monitoring, prompt maintenance, and compliance tooling — 47% of AI budgets exceed estimates, and 80–85% of enterprises miss infrastructure forecasts by more than 25%."
 ---
 
 ## TLDR

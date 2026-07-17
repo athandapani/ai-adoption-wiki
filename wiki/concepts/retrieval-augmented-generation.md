@@ -4,6 +4,7 @@ domain: [second-brain]
 status: active
 created: 2026-07-15
 tags: [rag, architecture, grounding]
+description: "An architecture where the LLM retrieves relevant chunks from an index at query time before generating — the industry default for enterprise knowledge, and the primary hallucination control."
 ---
 
 ## TLDR

@@ -4,6 +4,7 @@ domain: [risk]
 status: active
 created: 2026-07-15
 tags: [entity, standards, hallucination, risk]
+description: "Source of the definition the playbook uses for hallucination — \"confidently stated but false content\" — and of the AI Risk Management Framework."
 ---
 
 ## TLDR

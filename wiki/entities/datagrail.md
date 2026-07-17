@@ -4,6 +4,7 @@ domain: [risk]
 status: active
 created: 2026-07-15
 tags: [entity, privacy, shadow-ai, subprocessors, vendor]
+description: "Publisher of the 2026 Privacy & AI Trends Report and source of the 63.6%-of-AI-vendors-hide-subprocessors figure."
 ---
 
 ## TLDR

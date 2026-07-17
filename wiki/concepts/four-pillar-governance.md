@@ -4,6 +4,7 @@ domain: [governance]
 status: active
 created: 2026-07-15
 tags: [governance, ai-coe, framework]
+description: "Use Case Intake, Model Risk Management, Vendor Oversight, and Incident Response — the governance structure for a mid-market firm with no dedicated compliance team."
 ---
 
 ## TLDR

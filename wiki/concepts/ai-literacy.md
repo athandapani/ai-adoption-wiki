@@ -4,6 +4,7 @@ domain: [change-management]
 status: active
 created: 2026-07-15
 tags: [ai-literacy, training, change-management]
+description: "4–8 hours across 2–4 sessions covering foundations, prompting, risks, hands-on practice on real work, and a personal use-case map — with leaders trained first or in parallel, never last."
 ---
 
 ## TLDR

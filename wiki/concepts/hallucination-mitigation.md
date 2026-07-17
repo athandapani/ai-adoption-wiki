@@ -4,6 +4,7 @@ domain: [risk]
 status: active
 created: 2026-07-15
 tags: [hallucination, mitigation, rag, architecture]
+description: "RAG grounding, citations-or-silence, human-in-the-loop for high-stakes, sandboxed agents, and cross-model validation — five controls, none of which eliminate the problem."
 ---
 
 ## TLDR

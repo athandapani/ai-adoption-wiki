@@ -5,6 +5,7 @@ domain: [tooling]
 status: active
 created: 2026-07-15
 tags: [source, tooling, capture-first, permissioning]
+description: "The source of the playbook's critical success factors — capture before search, verify before publishing, respect permissions — and of the best diagnosis in the corpus of why knowledge management failed."
 ---
 
 ## TLDR

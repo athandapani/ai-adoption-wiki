@@ -4,6 +4,7 @@ domain: [governance]
 status: active
 created: 2026-07-15
 tags: [governance, compliance, regulation]
+description: "Governance is the mechanism preventing shadow AI breaches, regulatory non-compliance, and hallucination-driven business risk — the question isn't whether to have it, but what the minimum viable structure is."
 ---
 
 ## TLDR

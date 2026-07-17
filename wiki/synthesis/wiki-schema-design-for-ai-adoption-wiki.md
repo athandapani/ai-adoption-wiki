@@ -4,6 +4,7 @@ domain: [cross-domain]
 status: active
 created: 2026-07-15
 tags: [meta, schema, adr, graph]
+description: "This vault inherits second-brain's seven-heading page template unchanged and deviates on exactly two axes — status vocabulary and domain vocabulary — both forced by its purpose as a published graph demo rather than a private notebook."
 ---
 
 ## TLDR

@@ -5,6 +5,7 @@ domain: [second-brain]
 status: active
 created: 2026-07-15
 tags: [source, karpathy, llm-wiki, architecture]
+description: "The playbook's primary source for the Karpathy method — and the one that explicitly says the method is for individuals and small teams, while organizational collections still require RAG."
 ---
 
 ## TLDR

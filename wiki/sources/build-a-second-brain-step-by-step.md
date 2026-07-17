@@ -5,6 +5,7 @@ domain: [second-brain]
 status: active
 created: 2026-07-15
 tags: [source, karpathy, llm-wiki, obsidian]
+description: "Three-layer architecture (sources, wiki, schema) with four slash-command operations — capture, sync, lint, digest — and the 100-articles/400,000-words figure."
 ---
 
 ## TLDR

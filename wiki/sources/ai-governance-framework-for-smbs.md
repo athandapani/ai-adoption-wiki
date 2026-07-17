@@ -5,6 +5,7 @@ domain: [governance]
 status: revisiting
 created: 2026-07-15
 tags: [source, iso-42001, governance, tiering, stale]
+description: "The three-tier governance table the playbook reproduces — from a July 2025 blog post by \"admin\", written before the EU AI Act's high-risk provisions took effect."
 ---
 
 ## TLDR

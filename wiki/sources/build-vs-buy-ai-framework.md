@@ -5,6 +5,7 @@ domain: [spend]
 status: revisiting
 created: 2026-07-15
 tags: [source, build-vs-buy, spend, mis-citation]
+description: "Cited for the playbook's build-vs-buy table, which it doesn't contain — its actual framework compares delivery models, not build against buy."
 ---
 
 ## TLDR

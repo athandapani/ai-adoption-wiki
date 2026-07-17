@@ -4,6 +4,7 @@ domain: [change-management]
 status: active
 created: 2026-07-15
 tags: [entity, change-management, adkar, framework]
+description: "Originator of the ADKAR model — Awareness, Desire, Knowledge, Ability, Reinforcement — the change framework the playbook maps onto AI adoption."
 ---
 
 ## TLDR

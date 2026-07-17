@@ -4,6 +4,7 @@ domain: [governance, risk]
 status: active
 created: 2026-07-15
 tags: [shadow-ai, risk, governance, breach-cost]
+description: "Unauthorized employee AI use outside IT visibility — ~18,000 prompts/month per org with 47% on personal accounts, 223 policy violations/month, and +$670,000 in breach costs where it's present."
 ---
 
 ## TLDR

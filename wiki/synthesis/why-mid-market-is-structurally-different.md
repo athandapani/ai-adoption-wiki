@@ -4,6 +4,7 @@ domain: [cross-domain]
 status: active
 created: 2026-07-15
 tags: [mid-market, strategy, positioning]
+description: "Mid-market firms ($50M–$500M ARR) have enough institutional knowledge and data complexity to justify sophisticated AI, and neither the headcount to build it the enterprise way nor the greenfield to rebuild AI-native like a startup."
 ---
 
 ## TLDR

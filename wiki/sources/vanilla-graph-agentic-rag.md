@@ -5,6 +5,7 @@ domain: [second-brain, spend]
 status: active
 created: 2026-07-15
 tags: [source, rag, architecture, roi]
+description: "The RAG maturity path — Vanilla → Graph → Agentic — and the source of the 141%-over-3-years figure the playbook uses to argue against RAG."
 ---
 
 ## TLDR

@@ -4,6 +4,7 @@ domain: [spend]
 status: revisiting
 created: 2026-07-15
 tags: [entity, consultancy, spend, it-budget]
+description: "Credited by the playbook with the finding that firms allocating ≥25% of IT budget to AI will rise from 27% to 52% within two years — a figure that checks out, from a survey that's never cited."
 ---
 
 ## TLDR

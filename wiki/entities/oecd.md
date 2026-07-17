@@ -4,6 +4,7 @@ domain: [adoption]
 status: active
 created: 2026-07-15
 tags: [entity, research-institution, adoption]
+description: "The Organisation for Economic Co-operation and Development, whose D4SME survey is the playbook's primary source for global SME AI adoption rates and barriers."
 ---
 
 ## TLDR

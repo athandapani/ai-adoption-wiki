@@ -5,6 +5,7 @@ domain: [second-brain]
 status: revisiting
 created: 2026-07-15
 tags: [source, karpathy, llm-wiki, facebook, playwright]
+description: "An anonymous Facebook group post — and the actual source of the playbook's directory structure, the Karpathy quote, and its gist metrics."
 ---
 
 ## TLDR

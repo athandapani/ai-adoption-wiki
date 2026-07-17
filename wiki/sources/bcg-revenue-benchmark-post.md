@@ -5,6 +5,7 @@ domain: [spend]
 status: active
 created: 2026-07-15
 tags: [source, bcg, spend, benchmark]
+description: "LinkedIn post carrying BCG's 1.7%-of-revenue benchmark alongside the pair that defines the corpus: 94% will keep spending regardless, 6% see meaningful impact."
 ---
 
 ## TLDR

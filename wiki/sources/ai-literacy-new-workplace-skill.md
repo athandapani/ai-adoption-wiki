@@ -5,6 +5,7 @@ domain: [change-management]
 status: active
 created: 2026-07-15
 tags: [source, ai-literacy, verification, competencies]
+description: "Argues AI literacy is four distinct competencies calibrated by role — and names output verification as the least visible, most consequential gap."
 ---
 
 ## TLDR

@@ -5,6 +5,7 @@ domain: [governance, risk]
 status: active
 created: 2026-07-15
 tags: [source, shadow-ai, netskope, ibm, risk]
+description: "The source behind the playbook's best-evidenced section — every shadow AI figure in Section 4.5 traces here, and through here to Netskope and IBM."
 ---
 
 ## TLDR

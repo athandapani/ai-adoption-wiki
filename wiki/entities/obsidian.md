@@ -4,6 +4,7 @@ domain: [tooling]
 status: active
 created: 2026-07-15
 tags: [entity, tool, markdown, graph, visualization]
+description: "The markdown IDE that serves as the visualization layer for a Karpathy wiki — free, local, with backlinks and a graph view."
 ---
 
 ## TLDR

@@ -4,6 +4,7 @@ domain: [spend]
 status: active
 created: 2026-07-15
 tags: [spend, budget-allocation, survey]
+description: "Customer service takes 29% of SMB AI budget and internal knowledge/RAG takes 8% — the allocation data is the best-sourced finding in the spend section."
 ---
 
 ## TLDR

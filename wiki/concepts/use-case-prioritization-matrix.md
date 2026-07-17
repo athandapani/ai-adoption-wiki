@@ -4,6 +4,7 @@ domain: [governance]
 status: active
 created: 2026-07-15
 tags: [prioritization, ai-coe, governance]
+description: "Business impact against organizational feasibility: quick wins, strategic priorities, traps, and rejects — with \"traps\" (easy, low-return) the quadrant that quietly consumes lean-team capacity."
 ---
 
 ## TLDR

@@ -5,6 +5,7 @@ domain: [spend]
 status: active
 created: 2026-07-15
 tags: [source, bcg, spend, india]
+description: "Moneycontrol's coverage of BCG's AI Radar 2026 — corroborating the 1.7% benchmark and naming the report the playbook calls \"BCG Radar 6\"."
 ---
 
 ## TLDR

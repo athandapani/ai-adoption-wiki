@@ -4,6 +4,7 @@ domain: [change-management]
 status: active
 created: 2026-07-15
 tags: [skills-gap, talent, ai-literacy]
+description: "Mid-market firms are structurally outbid for AI specialists, so the winning response is AI literacy across existing staff rather than AI specialization — yet only half of AI decision-makers train non-technical employees at all."
 ---
 
 ## TLDR

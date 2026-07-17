@@ -5,6 +5,7 @@ domain: [spend]
 status: active
 created: 2026-07-15
 tags: [source, tco, build-vs-buy, spend]
+description: "Three-model cost breakdown with the hidden-cost line items — and the actual figures that contradict the playbook's build-vs-buy table."
 ---
 
 ## TLDR

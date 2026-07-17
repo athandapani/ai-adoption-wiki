@@ -4,6 +4,7 @@ domain: [adoption]
 status: active
 created: 2026-07-15
 tags: [adoption, barriers, oecd]
+description: "OECD's D4SME survey ranks maintenance cost (40%) and lack of training time (39%) as the top SME barriers, with management and employee resistance last at 7% and 6% — a finding the playbook's own change-management sections contradict outright."
 ---
 
 ## TLDR

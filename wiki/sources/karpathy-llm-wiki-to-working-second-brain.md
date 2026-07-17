@@ -5,6 +5,7 @@ domain: [second-brain]
 status: active
 created: 2026-07-15
 tags: [source, karpathy, implementation, practitioner]
+description: "The only first-hand practitioner account in the corpus — a cloud architect's implementation, self-rated 7/10, with a diff-and-approve write workflow."
 ---
 
 ## TLDR

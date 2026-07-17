@@ -4,6 +4,7 @@ domain: [governance]
 status: active
 created: 2026-07-15
 tags: [ai-coe, governance, operating-model]
+description: "Five components, 3–5 people, three use cases, and a counter-intuitive 40/30/30 split across governance, education, and delivery — with an end date from day one."
 ---
 
 ## TLDR

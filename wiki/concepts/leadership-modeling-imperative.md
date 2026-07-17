@@ -4,6 +4,7 @@ domain: [change-management]
 status: active
 created: 2026-07-15
 tags: [leadership, change-management, modeling]
+description: "Supervisors who co-present AI outputs with their team rather than delegating the AI interaction measurably reduce resistance — the highest-leverage single variable in AI adoption."
 ---
 
 ## TLDR

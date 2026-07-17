@@ -4,6 +4,7 @@ domain: [cross-domain]
 status: active
 created: 2026-07-15
 tags: [governance, ai-coe, enablement]
+description: "Governance frameworks built for large enterprises fail at mid-market scale by creating bottlenecks that delay adoption more than they reduce risk; the working posture is automated guardrails plus a CoE with an expiry date."
 ---
 
 ## TLDR

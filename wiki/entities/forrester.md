@@ -4,6 +4,7 @@ domain: [change-management]
 status: active
 created: 2026-07-15
 tags: [entity, analyst, training, skills-gap]
+description: "Source of the finding that only half of AI decision-makers train non-technical employees — a figure that grew just 4 percentage points between 2024 and 2025."
 ---
 
 ## TLDR

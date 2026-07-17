@@ -4,6 +4,7 @@ domain: [governance]
 status: active
 created: 2026-07-15
 tags: [governance, implementation, roadmap]
+description: "Days 1–30 inventory and draft the AUP, 31–60 provision accounts and train, 61–90 audit and report — the playbook's most immediately actionable section."
 ---
 
 ## TLDR

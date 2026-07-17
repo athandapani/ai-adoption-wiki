@@ -5,6 +5,7 @@ domain: [spend, adoption]
 status: active
 created: 2026-07-15
 tags: [source, survey, spend, allocation]
+description: "312 SMBs surveyed with disclosed methodology and no vendor sponsorship — the most trustworthy dataset in the playbook, and the source of the 8%-to-internal-knowledge figure."
 ---
 
 ## TLDR

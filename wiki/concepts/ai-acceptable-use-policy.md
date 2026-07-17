@@ -4,6 +4,7 @@ domain: [governance]
 status: active
 created: 2026-07-15
 tags: [aup, governance, policy]
+description: "Approved tools list, data classification rules, output verification requirements, violation consequences, quarterly review — required before broad rollout, and useless against AI that arrives through vendors."
 ---
 
 ## TLDR

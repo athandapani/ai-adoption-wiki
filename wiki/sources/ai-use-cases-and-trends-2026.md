@@ -5,6 +5,7 @@ domain: [industry]
 status: active
 created: 2026-07-15
 tags: [source, industry, use-cases, logistics, manufacturing]
+description: "Source of the 70%-of-logistics-companies figure — and not the source of the 20–40% downtime figure the playbook attributes to it."
 ---
 
 ## TLDR

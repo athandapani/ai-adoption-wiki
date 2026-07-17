@@ -4,6 +4,7 @@ domain: [cross-domain]
 status: revisiting
 created: 2026-07-15
 tags: [knowledge-management, roi, budget-allocation]
+description: "Internal knowledge and RAG take 8% of SMB AI budgets while customer service takes 29% — the playbook calls this systematic under-investment, but the ROI figures it uses to prove the gap are the weakest-sourced numbers in the corpus."
 ---
 
 ## TLDR

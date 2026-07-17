@@ -4,6 +4,7 @@ domain: [risk]
 status: revisiting
 created: 2026-07-15
 tags: [entity, hallucination, leaderboard, uncited]
+description: "Named in Appendix B as a recommended primary source for hallucination rates, with no reference, no URL, and no citation anywhere in the playbook."
 ---
 
 ## TLDR

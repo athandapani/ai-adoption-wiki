@@ -5,6 +5,7 @@ domain: [governance, risk]
 status: active
 created: 2026-07-15
 tags: [source, governance, eu-ai-act, shadow-ai]
+description: "Carries the EU AI Act enforcement timeline and penalties the playbook cites it for and then doesn't report — €35M or 7% of global revenue, enforceable August 2026."
 ---
 
 ## TLDR

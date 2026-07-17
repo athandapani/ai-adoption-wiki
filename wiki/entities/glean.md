@@ -4,6 +4,7 @@ domain: [tooling]
 status: active
 created: 2026-07-15
 tags: [entity, vendor, enterprise-search, tooling]
+description: "Enterprise AI search with 100+ connectors at $40–100/user/yr — the heavyweight option, priced for 500+ employee orgs."
 ---
 
 ## TLDR

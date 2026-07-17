@@ -4,6 +4,7 @@ domain: [cross-domain]
 status: active
 created: 2026-07-15
 tags: [strategy, differentiation, knowledge-management]
+description: "A competitor can buy the same model but cannot replicate your accumulated institutional knowledge — which is the strongest strategic argument in the playbook and the one it spends the least time on."
 ---
 
 ## TLDR

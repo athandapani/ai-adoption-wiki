@@ -4,6 +4,7 @@ domain: [adoption]
 status: revisiting
 created: 2026-07-15
 tags: [adoption, unsupported-claim, source-criticism]
+description: "A named concept the playbook attributes in quotation marks to a 2025 academic study that, verified against its full text, does not contain the word \"ambition\" even once."
 ---
 
 ## TLDR

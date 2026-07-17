@@ -5,6 +5,7 @@ domain: [risk]
 status: active
 created: 2026-07-15
 tags: [source, hallucination, risk, manufacturing]
+description: "Source of the 44%-of-manufacturing-decision-makers figure, the 17–33% RAG legal hallucination rate, and the 2030 responsible-AI projection."
 ---
 
 ## TLDR

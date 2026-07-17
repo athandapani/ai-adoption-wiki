@@ -4,6 +4,7 @@ domain: [adoption]
 status: active
 created: 2026-07-15
 tags: [entity, consultancy, mid-market, survey]
+description: "Publisher of the 2025 Middle Market AI Survey (US & Canada) — the playbook's only mid-market-specific adoption data."
 ---
 
 ## TLDR

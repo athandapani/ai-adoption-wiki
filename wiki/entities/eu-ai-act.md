@@ -4,6 +4,7 @@ domain: [governance]
 status: active
 created: 2026-07-15
 tags: [entity, regulation, compliance, enforcement]
+description: "Prohibitions in force since February 2025, high-risk requirements enforceable from August 2026, penalties up to €35 million or 7% of global annual revenue."
 ---
 
 ## TLDR

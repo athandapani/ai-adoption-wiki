@@ -4,6 +4,7 @@ domain: [second-brain]
 status: active
 created: 2026-07-15
 tags: [second-brain, llm-wiki, karpathy, architecture]
+description: "A six-stage pipeline where the LLM reads raw sources once and compiles a structured markdown wiki it then maintains — the human curates and reads, the LLM writes."
 ---
 
 ## TLDR
