@@ -16,6 +16,9 @@ The playbook's data-readiness citation — a 9MB PDF with no extractable text la
 - created: 2026-07-15
 - category: adoption, partial capture
 
+## Source Link
+[Artificial Intelligence Adoption by Small- and Medium-Sized Enterprises (G7 Report)](https://mila.quebec/sites/default/files/media-library/pdf/415051/2025g7aiadoptionfinaleng-1.pdf)
+
 ## Related
 - [[data-quality-readiness|Data Quality and Infrastructure Readiness]] — depends-on
 - [[oecd|OECD]]

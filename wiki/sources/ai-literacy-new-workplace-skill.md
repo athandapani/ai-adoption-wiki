@@ -16,6 +16,9 @@ Argues AI literacy is four distinct competencies calibrated by role — and name
 - created: 2026-07-15
 - category: change management, AI literacy
 
+## Source Link
+[AI Literacy: The New Workplace Skill Every Organization Needs](https://resources.rework.com/libraries/ai-transformation-strategy/ai-literacy-the-new-workplace-skill)
+
 ## Related
 - [[ai-literacy|AI Literacy]] — depends-on
 - [[ai-literacy-training-explained|AI Literacy Training Explained]]

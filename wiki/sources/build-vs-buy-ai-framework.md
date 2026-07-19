@@ -16,6 +16,9 @@ Cited for the playbook's build-vs-buy table, which it doesn't contain — its ac
 - created: 2026-07-15
 - category: spend, decision framework
 
+## Source Link
+[Build vs Buy AI: Decision Framework for Mid-Market Companies (2026)](https://phoenixai.solutions/insights/guides/build-vs-buy-ai-decision-framework)
+
 ## Related
 - [[build-vs-buy-mid-market|Build vs. Buy for Mid-Market]] — contradicts (the playbook's table isn't here)
 - [[ai-implementation-cost-2026|AI Implementation Cost 2026: SaaS vs Custom vs API-First]]

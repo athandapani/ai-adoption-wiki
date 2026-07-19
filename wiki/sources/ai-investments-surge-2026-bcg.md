@@ -16,6 +16,9 @@ The one reference in the corpus that could not be captured — an MSN syndicatio
 - created: 2026-07-15
 - category: spend benchmarks, unreachable
 
+## Source Link
+[AI investments set to surge in 2026; CEOs driving strategy: BCG report](https://www.msn.com/en-in/money/news/ai-investments-set-to-surge-in-2026-ceos-driving-strategy-bcg-report/ar-AA1UlFvn)
+
 ## Related
 - [[bcg|Boston Consulting Group]]
 - [[bcg-revenue-benchmark-post|How Much Should Your Mid-Size Enterprise Be Spending on AI?]] — covers the same findings

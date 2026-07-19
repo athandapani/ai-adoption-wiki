@@ -16,6 +16,9 @@ A systematic literature review of 106 articles organized by the TOE model — an
 - created: 2026-07-15
 - category: adoption, peer-reviewed literature review
 
+## Source Link
+[The new normal: The status quo of AI adoption in SMEs](https://www.tandfonline.com/doi/full/10.1080/00472778.2024.2379999)
+
 ## Related
 - [[capability-ambition-gap|Capability-Ambition Gap]] — contradicts (the concept is not in this paper)
 - [[attribution-problems-in-the-playbook|Attribution Problems in the Source Playbook]] — depends-on

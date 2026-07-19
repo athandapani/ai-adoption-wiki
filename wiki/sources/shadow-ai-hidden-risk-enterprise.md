@@ -16,6 +16,9 @@ The source behind the playbook's best-evidenced section — every shadow AI figu
 - created: 2026-07-15
 - category: risk, shadow AI
 
+## Source Link
+[Shadow AI — The Hidden Risk in Your Enterprise (2026 Update)](https://www.linkedin.com/pulse/shadow-ai-hidden-risk-your-enterprise-2026-update-abhishek-sharma-xh9vf)
+
 ## Related
 - [[shadow-ai|Shadow AI]] — depends-on
 - [[netskope|Netskope]] — the usage data

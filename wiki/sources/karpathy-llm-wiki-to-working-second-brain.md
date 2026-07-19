@@ -16,6 +16,9 @@ The only first-hand practitioner account in the corpus — a cloud architect's i
 - created: 2026-07-15
 - category: llm-wiki methodology, practitioner report
 
+## Source Link
+[From Karpathy's LLM Wiki to a Working Second Brain: My Implementation with Amazon Quick Desktop](https://www.doit.com/blog/llm-wiki-second-brain-implementation)
+
 ## Related
 - [[karpathy-llm-wiki-method|Karpathy LLM Wiki Method]] — depends-on
 - [[digital-second-brain|Digital Second Brain]]

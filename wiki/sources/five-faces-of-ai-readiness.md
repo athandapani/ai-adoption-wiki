@@ -16,6 +16,9 @@ The WEF's actual five archetypes — enthusiasts, curious, cautious, sceptics, o
 - created: 2026-07-15
 - category: change management, archetypes
 
+## Source Link
+[The 5 faces of human readiness for AI adoption – and how to work with them](https://www.weforum.org/stories/artificial-intelligence/ai-workplace-adoption-readiness/)
+
 ## Related
 - [[world-economic-forum|World Economic Forum]] — the publisher
 - [[five-human-postures-toward-ai|Five Human Postures Toward AI]] — contradicts (the playbook renames and mismaps)

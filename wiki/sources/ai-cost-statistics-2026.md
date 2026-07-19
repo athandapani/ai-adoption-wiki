@@ -16,6 +16,9 @@ Independently corroborates the 1.7% benchmark and the 27%→52% IT-budget shift 
 - created: 2026-07-15
 - category: spend, ROI
 
+## Source Link
+[AI Cost Statistics 2026: What Finance, Product, & FinOps Teams Need to Know](https://www.mavvrik.ai/blog/ai-cost-statistics-2026/)
+
 ## Related
 - [[roi-measurement-problem|The ROI Measurement Problem]] — depends-on
 - [[ai-spending-benchmarks|AI Spending Benchmarks]]

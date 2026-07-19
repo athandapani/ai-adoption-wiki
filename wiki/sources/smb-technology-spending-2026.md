@@ -16,6 +16,9 @@ SMB IT budget data — AI at 5% today, Gartner forecasting 12–15% of SMB softw
 - created: 2026-07-15
 - category: spend, IT budgets
 
+## Source Link
+[SMB Technology Spending Statistics 2026: IT Budget Data](https://stealthagents.com/research/smb-technology-spending-statistics-2026)
+
 ## Related
 - [[ai-spending-benchmarks|AI Spending Benchmarks]] — depends-on
 - [[gartner|Gartner]]

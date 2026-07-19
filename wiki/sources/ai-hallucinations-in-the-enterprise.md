@@ -16,6 +16,9 @@ Source of the 44%-of-manufacturing-decision-makers figure, the 17–33% RAG lega
 - created: 2026-07-15
 - category: risk, hallucination
 
+## Source Link
+[AI Hallucinations Explained: Risks Every Enterprise Must Address](https://sidgs.com/article/ai-hallucinations-explained-risks-every-enterprise-must-address/)
+
 ## Related
 - [[ai-hallucination-risk|AI Hallucination Risk]] — depends-on
 - [[hallucination-mitigation|Hallucination Mitigation Architecture]]

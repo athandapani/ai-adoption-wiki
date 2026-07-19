@@ -16,6 +16,9 @@ The RAG maturity path — Vanilla → Graph → Agentic — and the source of th
 - created: 2026-07-15
 - category: rag, architecture
 
+## Source Link
+[How enterprise teams use Vanilla RAG, Graph RAG, and Agentic RAG to build knowledge bases that empower teams and drive ROI](https://www.linkedin.com/pulse/how-enterprise-teams-use-vanilla-rag-graph-agentic-build-sverdlik-xop9f)
+
 ## Related
 - [[retrieval-augmented-generation|Retrieval-Augmented Generation (RAG)]] — depends-on
 - [[rag-vs-llm-wiki|RAG vs. LLM Wiki]] — contradicts (this is the RAG-maturity answer)

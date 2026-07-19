@@ -16,6 +16,9 @@ The playbook's route to McKinsey's "change management is the #1 barrier" finding
 - created: 2026-07-15
 - category: change management, resistance
 
+## Source Link
+[Overcoming AI Resistance: Change Management Strategies That Actually Work](https://alicelabs.ai/en/insights/ai-organizational-resistance)
+
 ## Related
 - [[mckinsey|McKinsey]] — the underlying finding
 - [[adoption-is-a-leadership-problem|Adoption Is a Leadership Problem, Not a Technology Problem]] — depends-on

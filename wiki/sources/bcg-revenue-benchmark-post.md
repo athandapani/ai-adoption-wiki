@@ -16,6 +16,9 @@ LinkedIn post carrying BCG's 1.7%-of-revenue benchmark alongside the pair that d
 - created: 2026-07-15
 - category: spend benchmarks, secondary source
 
+## Source Link
+[How Much Should Your Mid-Size Enterprise Be Spending on AI?](https://www.linkedin.com/posts/bobmarsh5_how-much-should-your-mid-size-enterprise-activity-7471199705364893697-FB1y)
+
 ## Related
 - [[bcg|Boston Consulting Group]] — the underlying report
 - [[ai-spending-benchmarks|AI Spending Benchmarks]] — depends-on

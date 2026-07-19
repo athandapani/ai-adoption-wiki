@@ -16,6 +16,9 @@ An anonymous Facebook group post — and the actual source of the playbook's dir
 - created: 2026-07-15
 - category: llm-wiki methodology
 
+## Source Link
+[How to build Karpathy's Second Brain using AI for knowledge management](https://www.facebook.com/groups/868876935222403/posts/1310342537742505/)
+
 ## Related
 - [[karpathy-llm-wiki-method|Karpathy LLM Wiki Method]] — depends-on
 - [[andrej-karpathy|Andrej Karpathy]]

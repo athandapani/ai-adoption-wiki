@@ -16,6 +16,9 @@ Vendor summary of OECD D4SME research: 39% of SMEs use AI, only 8% reach transfo
 - created: 2026-07-15
 - category: adoption statistics, secondary source
 
+## Source Link
+[SME AI Adoption in 2025: Key Insights from OECD Research That Could Transform Your Business](https://daijobu.ai/2025/05/14/sme-ai-adoption-in-2025-key-insights-from-oecd-research-that-could-transform-your-business/)
+
 ## Related
 - [[oecd|OECD]] — the underlying research
 - [[ai-adoption-barriers|Barriers to AI Adoption]] — depends-on

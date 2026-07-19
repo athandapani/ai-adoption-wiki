@@ -16,6 +16,9 @@ The source of the playbook's 4–8 hour AI literacy curriculum and the train-lea
 - created: 2026-07-15
 - category: change management, curriculum
 
+## Source Link
+[AI Literacy Training Explained: What Every Non-Technical Employee Needs to Know](https://cotalentai.com/insights/ai-literacy-training-explained)
+
 ## Related
 - [[ai-literacy|AI Literacy]] — depends-on
 - [[ai-literacy-new-workplace-skill|AI Literacy: The New Workplace Skill]]

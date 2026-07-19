@@ -16,6 +16,9 @@ A January 2025 retrospective on 2024's AI struggles — data infrastructure, tal
 - created: 2026-07-15
 - category: adoption, retrospective
 
+## Source Link
+[Why Businesses Struggled with AI in 2024 — And Why 2025 Looks Promising](https://priyanshis.medium.com/why-businesses-struggled-with-ai-in-2024-and-why-2025-looks-promising-47088939607c)
+
 ## Related
 - [[data-quality-readiness|Data Quality and Infrastructure Readiness]] — depends-on
 - [[ai-skills-gap|The AI Skills Gap]]

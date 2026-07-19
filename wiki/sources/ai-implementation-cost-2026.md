@@ -16,6 +16,9 @@ Three-model cost breakdown with the hidden-cost line items — and the actual fi
 - created: 2026-07-15
 - category: spend, TCO
 
+## Source Link
+[How Much Will Your AI Implementation Cost? SaaS vs Custom vs API-First in 2026](https://www.groovyweb.co/blog/ai-implementation-cost-saas-custom-api-first-2026)
+
 ## Related
 - [[vendor-lock-in-and-tco|Vendor Lock-in and TCO Underestimation]] — depends-on
 - [[build-vs-buy-mid-market|Build vs. Buy for Mid-Market]] — contradicts (its data points to API-first, not the playbook's table)

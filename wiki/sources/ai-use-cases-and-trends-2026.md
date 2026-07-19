@@ -16,6 +16,9 @@ Source of the 70%-of-logistics-companies figure — and not the source of the 20
 - created: 2026-07-15
 - category: industry, use cases
 
+## Source Link
+[AI use cases: an in-depth trend overview for 2026](https://www.itransition.com/ai/use-cases)
+
 ## Related
 - [[ai-in-traditional-industries|AI in Traditional Industries]] — depends-on
 - [[ai-spending-by-industry-2026|AI Spending by Industry 2026]]

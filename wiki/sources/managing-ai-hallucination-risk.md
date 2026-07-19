@@ -16,6 +16,9 @@ The least conflicted hallucination source in the corpus — and the likely unnam
 - created: 2026-07-15
 - category: risk, hallucination
 
+## Source Link
+[Managing AI hallucination risk: a guide for enterprise risk managers](https://resilienceforward.com/managing-ai-hallucination-risk-a-guide-for-enterprise-risk-managers/)
+
 ## Related
 - [[ai-hallucination-risk|AI Hallucination Risk]] — depends-on
 - [[vectara|Vectara]] — the probable underlying leaderboard

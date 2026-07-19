@@ -16,6 +16,9 @@ LinkedIn summary of RSM's 2025 Middle Market AI Survey: 78–92% of mid-sized fi
 - created: 2026-07-15
 - category: adoption statistics, secondary source
 
+## Source Link
+[AI Adoption by Mid-Market Firms: Challenges and Solutions (RSM 2025 Survey)](https://www.linkedin.com/posts/brandonbraganza_rsm-middle-market-ai-survey-2025-us-and-activity-7338565840369328129-Simq)
+
 ## Related
 - [[rsm|RSM]] — the underlying survey
 - [[mid-market-ai-paradox|The Mid-Market AI Paradox]] — depends-on

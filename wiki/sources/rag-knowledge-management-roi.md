@@ -16,6 +16,9 @@ The playbook's ROI anchor — 300–500% first-year returns, 2.5 hours/day searc
 - created: 2026-07-15
 - category: rag, ROI claims
 
+## Source Link
+[Retrieval-Augmented Generation (RAG): Transform Enterprise Knowledge | 300-500% ROI](https://www.stratechi.com/retrieval-augmented-generation-ai-rag-knowledge-management/)
+
 ## Related
 - [[knowledge-attrition-cost|The Cost of Knowledge Attrition]] — contradicts (the $300K figure is not in this source)
 - [[internal-knowledge-is-under-invested|Internal Knowledge Is Systematically Under-Invested]] — depends-on

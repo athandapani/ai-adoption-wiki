@@ -16,6 +16,9 @@ Three-layer architecture (sources, wiki, schema) with four slash-command operati
 - created: 2026-07-15
 - category: llm-wiki methodology
 
+## Source Link
+[Build a Second Brain: Karpathy's LLM Wiki Method, Step by Step](https://www.askglitch.com/blog/build-a-second-brain)
+
 ## Related
 - [[karpathy-llm-wiki-method|Karpathy LLM Wiki Method]] — depends-on
 - [[andrej-karpathy|Andrej Karpathy]]

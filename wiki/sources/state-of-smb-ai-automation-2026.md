@@ -16,6 +16,9 @@ description: "312 SMBs surveyed with disclosed methodology and no vendor sponsor
 - created: 2026-07-15
 - category: spend actuals, primary survey
 
+## Source Link
+[State of SMB AI Automation 2026](https://creativegenius.ai/research/state-of-smb-ai-automation-2026)
+
 ## Related
 - [[ai-budget-allocation|Where the AI Budget Goes]] — depends-on
 - [[ai-spending-benchmarks|AI Spending Benchmarks]]

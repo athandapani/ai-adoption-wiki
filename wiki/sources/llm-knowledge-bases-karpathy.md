@@ -16,6 +16,9 @@ The playbook's primary source for the Karpathy method — and the one that expli
 - created: 2026-07-15
 - category: llm-wiki methodology, primary architecture source
 
+## Source Link
+[LLM Knowledge Bases: Karpathy's Self-Improving Second Brain](https://lmmarketcap.com/reports/llm-knowledge-bases-karpathy)
+
 ## Related
 - [[karpathy-llm-wiki-method|Karpathy LLM Wiki Method]] — depends-on
 - [[rag-vs-llm-wiki|RAG vs. LLM Wiki]] — contradicts (this source says enterprises need RAG)

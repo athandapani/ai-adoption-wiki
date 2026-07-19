@@ -16,6 +16,9 @@ The ADKAR-for-AI source — and the one that names high shadow-AI usage as the w
 - created: 2026-07-15
 - category: change management, framework
 
+## Source Link
+[Change Management for AI Adoption: A 2026 Playbook](https://www.digitalapplied.com/blog/change-management-ai-adoption-2026-overcoming-resistance-playbook)
+
 ## Related
 - [[adkar-for-ai|ADKAR Applied to AI]] — depends-on
 - [[prosci|Prosci]]

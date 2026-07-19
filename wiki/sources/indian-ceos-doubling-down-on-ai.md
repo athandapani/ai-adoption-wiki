@@ -16,6 +16,9 @@ Moneycontrol's coverage of BCG's AI Radar 2026 — corroborating the 1.7% benchm
 - created: 2026-07-15
 - category: spend benchmarks, secondary source
 
+## Source Link
+[Indian CEOs are doubling down on AI investments; earmarking 1.7% of revenue for AI in 2026: BCG report](https://www.moneycontrol.com/artificial-intelligence/indian-ceos-are-doubling-down-on-ai-investments-earmarking-1-7-of-revenue-for-ai-in-2026-bcg-report-article-13774209.html)
+
 ## Related
 - [[bcg|Boston Consulting Group]] — the underlying report
 - [[ai-spending-benchmarks|AI Spending Benchmarks]] — depends-on

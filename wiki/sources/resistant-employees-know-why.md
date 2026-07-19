@@ -16,6 +16,9 @@ Carries the 95%-of-AI-pilots-fail finding and the 76%-vs-31% executive perceptio
 - created: 2026-07-15
 - category: change management, resistance
 
+## Source Link
+[Your Resistant Employees Know Why Your AI Adoption Is Failing](https://www.forbes.com/councils/forbestechcouncil/2026/02/05/your-resistant-employees-know-why-your-ai-adoption-is-failing/)
+
 ## Related
 - [[five-human-postures-toward-ai|Five Human Postures Toward AI]] — depends-on
 - [[adoption-is-a-leadership-problem|Adoption Is a Leadership Problem, Not a Technology Problem]]

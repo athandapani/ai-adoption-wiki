@@ -16,6 +16,9 @@ The per-employee spend source — where four of the playbook's five cited figure
 - created: 2026-07-15
 - category: spend, per-employee benchmarks
 
+## Source Link
+[AI Spending by Industry 2026 — Budget Data by Sector](https://aistackhub.ai/ai-spending-by-industry)
+
 ## Related
 - [[ai-spending-benchmarks|AI Spending Benchmarks]] — contradicts (Section 6.5's figures don't match this source)
 - [[attribution-problems-in-the-playbook|Attribution Problems in the Source Playbook]] — depends-on

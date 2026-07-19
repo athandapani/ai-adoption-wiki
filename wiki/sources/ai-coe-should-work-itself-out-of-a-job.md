@@ -16,6 +16,9 @@ The dissolution argument — an 18-month CoE with an end date from day one — a
 - created: 2026-07-15
 - category: governance, operating model
 
+## Source Link
+[Your AI center of excellence should work itself out of a job](https://amitkoth.com/ai-center-of-excellence-temporary/)
+
 ## Related
 - [[governance-enables-rather-than-polices|Governance Enables, It Doesn't Police]] — depends-on
 - [[lean-ai-center-of-excellence|Lean AI Center of Excellence]]

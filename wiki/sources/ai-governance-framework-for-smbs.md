@@ -16,6 +16,9 @@ The three-tier governance table the playbook reproduces — from a July 2025 blo
 - created: 2026-07-15
 - category: governance, framework
 
+## Source Link
+[AI Governance Frameworks for Small Businesses: 2025 Step-by-Step Implementation Guide](https://mindsandwires.com/ai-governance-framework-smbs/)
+
 ## Related
 - [[three-tier-sme-governance|Three-Tier SME Governance Framework]] — depends-on
 - [[iso-42001|ISO/IEC 42001]]

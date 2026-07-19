@@ -16,6 +16,9 @@ DataGrail's report and the source of the 63.6%-of-AI-vendors-hide-subprocessors 
 - created: 2026-07-15
 - category: governance, privacy
 
+## Source Link
+[Privacy and AI Trends Report 2026: Shadow AI Emerges as a Growing Threat While Core Privacy Challenges Persist](https://www.globenewswire.com/news-release/2026/05/27/3302046/0/en/privacy-and-ai-trends-report-2026-shadow-ai-emerges-as-a-growing-threat-while-core-privacy-challenges-persist.html)
+
 ## Related
 - [[datagrail|DataGrail]] — the publisher
 - [[four-pillar-governance|Four-Pillar Governance Framework]] — depends-on

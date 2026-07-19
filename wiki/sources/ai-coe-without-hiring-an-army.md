@@ -16,6 +16,9 @@ The load-bearing source for the playbook's entire Section 5 — five components,
 - created: 2026-07-15
 - category: governance, operating model
 
+## Source Link
+[How to Build an AI Center of Excellence Without Hiring an Army](https://norvik.ai/insights/ai-center-of-excellence-without-hiring-army)
+
 ## Related
 - [[lean-ai-center-of-excellence|Lean AI Center of Excellence]] — depends-on
 - [[use-case-prioritization-matrix|Use Case Prioritization Matrix]]

@@ -16,6 +16,9 @@ Carries the EU AI Act enforcement timeline and penalties the playbook cites it f
 - created: 2026-07-15
 - category: governance, regulation
 
+## Source Link
+[AI Governance Challenges: Navigating Shadow AI, Regulatory Fragmentation, and the Path to Organizational Readiness](https://www.adaptivesecurity.com/blog/ai-governance-challenges-navigating-shadow-ai-regulatory-fragmentation-and-the-path-to-organizat)
+
 ## Related
 - [[eu-ai-act|EU AI Act]] — depends-on
 - [[ai-governance-for-lean-orgs|AI Governance for Lean Organizations]]

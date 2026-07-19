@@ -16,6 +16,9 @@ RAG guide arguing institutional knowledge needs activation, not creation — the
 - created: 2026-07-15
 - category: rag, knowledge management
 
+## Source Link
+[Turning Institutional Knowledge into Strategic AI Assets: A Guide for Digital Leaders](https://www.netsolutions.com/insights/rag-for-enterprise-knowledge-management/)
+
 ## Related
 - [[the-proprietary-knowledge-moat|The Proprietary Knowledge Moat]] — depends-on
 - [[digital-second-brain|Digital Second Brain]]

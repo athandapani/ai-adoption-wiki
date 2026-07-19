@@ -16,6 +16,9 @@ The tool pricing table the playbook reproduces accurately — and the source of 
 - created: 2026-07-15
 - category: tooling, vendor comparison
 
+## Source Link
+[AI Enterprise Knowledge Management Complete Guide 2026: Glean vs Guru vs Notion AI vs Slab vs Microsoft Viva](https://en.ai-pedias.com/blog/ai-enterprise-knowledge-management-2026)
+
 ## Related
 - [[km-tool-landscape|Knowledge Management Tool Landscape]] — depends-on
 - [[glean|Glean]]

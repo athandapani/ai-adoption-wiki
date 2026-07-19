@@ -16,6 +16,9 @@ Coverage of Gartner's $2.52T global AI spending forecast for 2026 — up 44% YoY
 - created: 2026-07-15
 - category: spend forecasts, secondary source
 
+## Source Link
+[AI Spending Forecast: Turning Numbers Into Power](https://mybusinessfuture.com/en/gartner-s-2-52-trillion-ai-spending-forecast-how-mid-market/)
+
 ## Related
 - [[gartner|Gartner]] — the underlying forecast
 - [[ai-spending-benchmarks|AI Spending Benchmarks]] — depends-on

@@ -16,6 +16,9 @@ The source of the playbook's critical success factors — capture before search,
 - created: 2026-07-15
 - category: tooling, knowledge management
 
+## Source Link
+[Best AI for Knowledge Management in 2026: Wikis, Internal Docs, and Institutional Memory](https://aitoolguide.ai/blog/best-ai-for-knowledge-management-2026/)
+
 ## Related
 - [[capture-first-beats-search-first|Capture First, Search Second]] — depends-on
 - [[km-tool-landscape|Knowledge Management Tool Landscape]]

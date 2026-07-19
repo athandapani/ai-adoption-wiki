@@ -16,6 +16,9 @@ The 312%-ROI case study — a 200-employee tech company, with no author, no date
 - created: 2026-07-15
 - category: rag, case study
 
+## Source Link
+[From Information Silos to Enterprise Brain: RAG Transformation](https://10xclaw.com/case-studies/enterprise-knowledge-rag-transformation/)
+
 ## Related
 - [[rag-knowledge-management-roi|RAG Knowledge Management — 300-500% ROI]]
 - [[internal-knowledge-is-under-invested|Internal Knowledge Is Systematically Under-Invested]] — depends-on

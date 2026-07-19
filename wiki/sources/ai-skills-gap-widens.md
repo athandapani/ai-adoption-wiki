@@ -16,6 +16,9 @@ News coverage of a Forrester report: only half of AI decision-makers train non-t
 - created: 2026-07-15
 - category: skills gap, secondary source
 
+## Source Link
+[AI Skills Gap Widens as Training Lags Behind](https://www.datagrom.com/ai-news/ai-skills-gap-widens-as-training-lags-behind-5b4de128)
+
 ## Related
 - [[forrester|Forrester Research]] — the underlying report
 - [[ai-skills-gap|The AI Skills Gap]] — depends-on

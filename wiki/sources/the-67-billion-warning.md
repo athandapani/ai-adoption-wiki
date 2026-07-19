@@ -16,6 +16,9 @@ The origin of the $67.4B hallucination-loss figure — attributed to "AllAboutAI
 - created: 2026-07-15
 - category: risk, hallucination
 
+## Source Link
+[The $67 Billion Warning: How AI Hallucinations Hurt Enterprises (and How to Stop Them)](https://korra.ai/the-67-billion-warning-how-ai-hallucinations-hurt-enterprises-and-how-to-stop-them/)
+
 ## Related
 - [[ai-hallucination-risk|AI Hallucination Risk]] — depends-on
 - [[hallucination-mitigation|Hallucination Mitigation Architecture]]
