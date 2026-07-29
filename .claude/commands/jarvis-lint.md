@@ -25,12 +25,16 @@ Check five categories:
    graph config, and they float unconnected in `wiki-graph-explorer`).
 
 4. **Graph safety** — the failure mode that produces no error message. Report:
-   - any page whose frontmatter fails to parse, or lacks `title` / `tags` / `status`
-   - any `status` value outside `active` / `revisiting` / `dormant`
-   - any **dangling wikilink** — a `[[target]]` in `## Related` / `## Referenced By` with no
-     matching filename (silently dropped by the graph builder)
-   - any wikilink stranded in `## Body`, where the parser cannot see it
-   - any heading that isn't exactly `## Related` / `## Referenced By`
+   - any page whose frontmatter fails to parse, or lacks `title` / `tags`
+   - any explicitly-set `status` value outside `active` / `revisiting` / `dormant` (an absent
+     `status` is not an error — the parser defaults it to `"unknown"` — but this vault should
+     still set it explicitly)
+   - any **dangling wikilink** — a `[[target]]` anywhere in the body with no matching filename
+     or frontmatter title, case-insensitively (silently dropped by the graph builder, logged at
+     DEBUG only)
+   - any ambiguous wikilink — a `[[target]]` matching more than one page's filename/title,
+     which resolves to whichever match the vault walk encounters first rather than a specific
+     intended page
    - any filename collision with the sibling `second-brain` vault (shared Obsidian graph)
 
    Cross-check by running:

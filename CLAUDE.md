@@ -53,18 +53,36 @@ this repo — that is what `second-brain` is for, and it is hard-blocked from pu
 ## Schema constraints imposed by the graph explorer
 
 These are not style preferences. `wiki-graph-explorer` parses this vault, and violating any of
-these **silently** drops a node or an edge — no error is raised.
+these **silently** drops a node or an edge — no error is raised. (Updated for the generalized
+parser shipped in `wiki-graph-explorer` Epic 0utMknV — see that repo's
+`docs/design-notes.md` §12–14 for the full rationale.)
 
-- **YAML frontmatter is mandatory**, and must carry `title`, `tags`, `status`. A page without
-  parseable frontmatter is skipped entirely.
-- **Wikilinks only count inside `## Related` and `## Referenced By`.** A link in `## Body` is
-  invisible to the graph. The heading must be exactly that — H2, case-sensitive, nothing else
-  on the line.
-- **Node ID is the filename** minus `.md`, not the title. Wikilink targets must match
-  filenames, and filenames must be globally unique across all folders.
-- **Dangling links are dropped silently.** Every `[[target]]` must resolve to a real file.
+- **YAML frontmatter is mandatory**, and must carry `title` and `tags`. A page without
+  parseable frontmatter is skipped entirely. `status` is now optional — an absent `status`
+  defaults to a neutral `"unknown"` rather than dropping the page, but this vault should keep
+  declaring `active`/`revisiting`/`dormant` explicitly since the `StatusDot` coloring depends on it.
+- **Wikilinks count anywhere in the page body**, not only inside `## Related` and
+  `## Referenced By` — the parser now does a full-body scan. Keep using those two H2 sections
+  for structural cross-referencing anyway (Obsidian backlinks, human readers, this vault's own
+  editorial convention), but a `[[link]]` mentioned in ordinary prose is no longer invisible to
+  the graph.
+- **`![[Page Name]]` embed/transclusion syntax is excluded** from graph edges — only bare
+  `[[wikilinks]]` count.
+- **Wikilink targets resolve case-insensitively against either the target's filename or its
+  frontmatter `title`**, regardless of folder — not exact-filename-only. If two pages share a
+  title, an ambiguous `[[link]]` resolves to whichever one the vault walk encounters first
+  (deterministic across runs, but not something to rely on) — keep titles globally unique in
+  practice to avoid this tie-break mattering.
+- **Node ID is still the filename** minus `.md`, not the title, and filenames must still be
+  globally unique across all folders.
+- **Dangling links are dropped silently**, logged at DEBUG level only (not a build warning or
+  error) — every `[[target]]` should still resolve to a real file or frontmatter title for
+  intentional cross-references.
 - Edges are undirected and deduped — `Related` and `Referenced By` are equivalent to the
   parser. Keep both honest anyway, for Obsidian backlinks and human readers.
+- `tags` may be a YAML array, a comma/space-separated string, or omitted with inline `#hashtag`s
+  in the body merged in — this vault should keep using a YAML array for consistency, but the
+  parser accepts all three shapes.
 
 ## Deviations from `second-brain`'s schema
 

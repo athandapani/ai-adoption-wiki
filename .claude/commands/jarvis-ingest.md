@@ -71,10 +71,14 @@ Run the ingest workflow for this ai-adoption-wiki vault:
 
 5. **Graph-safety check** — `wiki-graph-explorer` parses this vault and drops bad nodes/edges
    silently. Before drafting is done, confirm for every page:
-   - frontmatter parses and carries `title`, `tags`, `status`
-   - `status` is one of `active` / `revisiting` / `dormant`
-   - every `[[target]]` in `## Related` / `## Referenced By` resolves to a real filename
-   - headings are exactly `## Related` and `## Referenced By`
+   - frontmatter parses and carries `title` and `tags` (`status` is optional to the parser but
+     should still be set explicitly here — see the mapping in "Deviations from `second-brain`'s
+     schema" below)
+   - if set, `status` is one of `active` / `revisiting` / `dormant`
+   - every `[[target]]` — anywhere in the body, not just under `## Related`/`## Referenced By` —
+     resolves case-insensitively to a real filename or another page's frontmatter `title`
+   - `## Related` / `## Referenced By` are still used for structural cross-referencing even
+     though the parser no longer requires it (editorial convention, not a parser requirement)
 
 6. **Contradiction check**: compare drafted content against existing wiki pages. If a new page
    contradicts an existing one, either (a) mark the *older* page `status: dormant` with
